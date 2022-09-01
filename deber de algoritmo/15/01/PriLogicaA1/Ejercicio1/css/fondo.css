@@ -1,0 +1,30 @@
+body{
+    background-color: #0895ece1;
+    color:rgb(8, 1, 1);
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color:rgb(206, 40, 7);
+    font-size: 35px;
+ }
+.opcion{
+    display: block;
+    text-align: center;
+    width:350px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    color:rgb(255, 251, 251);
+    text-decoration: none;
+    font-weight: bold;
+    cursor:pointer ;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to right top, #534b50, #675967, #786881, #84799e, #8a8cbd, #8e93c9, #929bd6, #96a2e3, #a29dde, #ad98d8, #b694d1, #bf8fc9);}
